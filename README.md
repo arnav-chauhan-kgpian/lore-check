@@ -51,7 +51,7 @@ This project is built using a modern AI/NLP stack:
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/sahilgupta630/KDSH.git
+    git clone https://github.com/arnav-chauhan-kgpian/lore-check.git
     cd KDSH
     ```
 
